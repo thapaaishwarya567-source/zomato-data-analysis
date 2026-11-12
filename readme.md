@@ -115,11 +115,6 @@ Through this project, I gained practical experience in:
 **Aishwarya Thapa**
 
 BCA Data Science Student
-
-GitHub: Add your GitHub profile link here
-
-LinkedIn: Add your LinkedIn profile link here
-
 ---
 
  If you find this project interesting, feel free to explore the repository!
